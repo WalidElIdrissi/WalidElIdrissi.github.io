@@ -17,11 +17,7 @@
  *  09. header styles
  *  10. intro
  *  11. about
- *  12. resume
  *  13. portfolio
- *  14. call-to-action section
- *  15. services
- *  16. stats
  *  17. contact
  *  18. footer
  *
@@ -1623,7 +1619,7 @@ header .logo a {
  */
 #portfolio {
 	background: #FFFFFF;
-	padding-top: 20rem;
+	padding-top: 0rem;
 	padding-bottom: 20rem;
 }
 #portfolio .folio-item {
