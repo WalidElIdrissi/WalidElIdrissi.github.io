@@ -1488,7 +1488,7 @@ header .logo a {
 #about {
 	background: #FFFFFF;
 	padding-top: 12rem;
-	padding-bottom: 5rem;
+	padding-bottom: 0rem;
 }
 #about .section-intro {
 	margin-bottom: 3rem;
